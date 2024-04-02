@@ -14,9 +14,9 @@
     <p>${subtitulo}</p>
     <ul class="contato">
         <li><a href="tel:+551112223"><i class="fa fa-phone"></i>${contato1}</a></li>
-        <li><a href="mailto:caualeu2016@gmail.com"><i class="fa fa-envelope"></i>${contato2}</a></li>
-        <li><a href="https://www.linkedin.com/in/cauaaraujo199"><i class="fa fa-linkedin"></i>${contato3}</a></li>
-        <li><a href="https://github.com/Cry199"><i class="fa fa-github"></i>${contato4}</a></li>
+        <li><a href="mailto:wlln.almeida.oliveira@gmail.com"><i class="fa fa-envelope"></i>${contato2}</a></li>
+        <li><a href="https://www.linkedin.com/in/wllnao"><i class="fa fa-linkedin"></i>${contato3}</a></li>
+        <li><a href="https://github.com/wlln148"><i class="fa fa-github"></i>${contato4}</a></li>
     </ul>
 </header>
 
