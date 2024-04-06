@@ -44,6 +44,7 @@
         <h2>${h14}</h2>
         <ul>
             <li>${certificacao1}</li>
+            <li>${certificacao2}</li>
         </ul>
     </section>
 
